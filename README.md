@@ -1,4 +1,5 @@
 # Brawlhalla Health HUD v2.0
+Forked by Zayoe4 to use native health values instead color gradients as indicators. Results in more accurate damage statistics.
 
 ## Use Java 8 or older for optimal experience
 
